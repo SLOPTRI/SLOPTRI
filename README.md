@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java 
 - 🌱 I’m currently studying DAM ( Multiplatform Aplication Development ) 
 - 📫 You can reach me on salvilopp10@gmail.com .
-- ⚡ Fun fact: Keyboards Maniac and touch typping rat.
+- ⚡ Fun fact: Keyboards Maniac and touch typing rat.
 
 <!---
 SLOPTRI/SLOPTRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

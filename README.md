@@ -32,7 +32,6 @@ You can connect with me on salvilopp10@gmail.com
 ## 📊 GitHub Stats
 <div style="display: flex">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SLOPTRI&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLOPTRI&theme=transparent&layout=compact&include_all_commits=true&count_private=true"/>
     <img src="https://git-hub-streak-stats.vercel.app/?user=SLOPTRI&theme=transparent"/>
   </p>

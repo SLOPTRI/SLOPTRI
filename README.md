@@ -65,7 +65,7 @@ With a highly analytical mindset, I specialize in solving complex logical proble
 
 ### 🎓 Education & Certifications
 
-- 🚀 **Vocational Master's in AI & Big Data Development** | *Starting: Sept 2026*
+- 🚀 **Master in AI & Big Data Development** | *Starting: Sept 2026*
   - Includes **Nex-IA Google AI Tools Certification**.
 - 💻 **Higher Degree in Multiplatform Application Development (DAM)** | *Expected Graduation: May 2026*
 - 🔧 **Technician in Microcomputer Systems and Networks (SMR)** | *Graduated: 2024*
@@ -81,7 +81,7 @@ With a highly analytical mindset, I specialize in solving complex logical proble
 ### ⌨️ Keyboard Enthusiast & Productivity
 
 - **Typing speed:** ⚡ Touch typing fanatic, always trying to beat my WPM.
-- **Setup:** Lover of custom keyboards and workflow optimization through shortcuts and tools (the mouse is lava! 🌋).
+- **Setup:** Lover of custom keyboards and workflow optimization.
 
 <br>
 
